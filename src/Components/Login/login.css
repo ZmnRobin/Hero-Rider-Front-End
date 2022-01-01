@@ -1,0 +1,11 @@
+.parent-login{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.child-login{
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 30px;
+    margin-top: 150px;
+}

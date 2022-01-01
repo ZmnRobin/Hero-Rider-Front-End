@@ -1,0 +1,46 @@
+.signup{
+    background-color: #11141C;
+    background-size: cover;
+    margin: 0 auto;
+    height: 100vh;
+    width: 100%;
+}
+.rider-img{
+    width: 50%;
+    background-color: white;
+    padding: 5px;
+    border-radius: 30px;
+}
+.learner-img{
+    width: 50%;
+    background-color: white;
+    padding: 5px;
+    border-radius: 30px;
+}
+.child{
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: white;
+}
+.child:hover{
+    background-color: #11141C;
+    color: white;
+    cursor: pointer;
+}
+.rider-info{
+    margin: 50px;
+    padding: 50px;
+}
+.signupas{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    padding-bottom: 7px;
+    border-bottom: 2px solid white;
+    width: 30%;
+}
+.sign-parent{
+    display: flex;
+    justify-content: center;
+}
